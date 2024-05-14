@@ -2509,7 +2509,7 @@ let questions = [
     question: "Elija la respuesta correcta",
     answer: "Pasaje General Proaño: Se encuentra en pleno centro de la urbe entre las calles 24 de mayo y Soasti, tiene una extensión de dos cuadras y es 100% peatonal",
     options: [
-      "Pasaje General Proaño: Se encuentra en pleno centro de la urbe entre las calles 24 de mayo y Soasti, tiene una extensión de dos cuadras y es 100% peatonal ", // Respuesta correcta
+      "Pasaje General Proaño: Se encuentra en pleno centro de la urbe entre las calles 24 de mayo y Soasti, tiene una extensión de dos cuadras y es 100% peatonal", // Respuesta correcta
       "Pasaje General Proaño: se encuentra en el costado sur del parque recreativo, en la calle del mismo nombre. Este malecón fue recién inaugurado y se puede obtener hermosas postales del río Upano.",
       "Pasaje General Proaño: Está conformado por 7 casetas, las mismas que en su mayoría están conformadas por bazares; junto a ellas hay jardineras de plantas ornamentales y típicas de Macas. Tiene una extensión de 2 cuadras",
       "Pasaje General Proaño: Se encuentra en General Proaño entre las calles 24 de Mayo y Soasti, tiene una extensión de dos cuadras y es 100% peatonal "
@@ -3310,7 +3310,7 @@ let questions = [
   {
     numb: 301,
     question: "¿Cuál es la importancia de la monografía de Pedro Porras y las investigaciones de Stéphen Rostain para la búsqueda de la 'Ciudad Perdida'?",
-    answer: "Proporcionan evidencia arqueológica importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Morona Santiago",
+    answer:"Proporcionan evidencia arqueológica importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Morona Santiago",
     options: [
       "Proporcionan evidencia sistemática importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Morona Santiago.",
       "Proporcionan evidencia arqueológica importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Santiago",
