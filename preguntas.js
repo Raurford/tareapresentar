@@ -200,7 +200,7 @@ let questions = [
   {
     numb: 19,
     question: "Que son los gases nobles.",
-    answer: "Los gases nobles son un grupo de elementos físicos con propiedades muy similares, son gases monoatómicos inodoros, incoloros y presentan una reactividad química muy baja.", // Respuesta correcta
+    answer:  "Los gases nobles son un grupo de elementos químicos con propiedades muy similares, son gases monoatómicos inodoros, incoloros y presentan una reactividad química muy baja.", // Respuesta correcta
     options: [
       "Los gases nobles son un grupo de elementos físicos con propiedades muy similares, son gases monoatómicos inodoros, incoloros y presentan una reactividad química muy baja.", // Respuesta correcta
       "Los gases nobles son un grupo de elementos químicos con propiedades muy similares, son gases monoatómicos inodoros, incoloros y presentan una reactividad química muy baja.",
@@ -2518,7 +2518,7 @@ let questions = [
   {
     numb: 229,
     question: "Elija la respuesta correcta",
-    answer: "Parque Cívico: Se encuentra al lado Sur del Parque Central, se lo construyó con la finalidad de ocupar una ladera existente entre la Catedral y el Parque Central.",
+    answer:  "Parque Cívico: Se encuentra al lado Este del Parque Central, se lo construyó con la finalidad de ocupar una ladera existente entre la Catedral y el Parque Central.",
     options: [
       "Parque Cívico: Se encuentra al lado Sur del Parque Central, se lo construyó con la finalidad de ocupar una ladera existente entre la Catedral y el Parque Central.", // Respuesta correcta
       "Parque Cívico: Se encuentra al lado Este del Parque Central, se lo construyó con la finalidad de ocupar una ladera existente entre la Catedral y el Parque Central.",
@@ -2792,7 +2792,7 @@ let questions = [
   {
     numb: 254,
     question: "Como es la casa del pueblo Shuar?",
-    answer: "Los Shuar construyen sus casa y viviendas con la madera del monte (guayacán y chonta, especialmente, y otras maderas de fácil manejo). El techo lo hacen de hojas de paja toquilla y chambira, las que son colocadas en una estructura de varas de madera para protegerse de las lluvias y tormentas.",
+    answer:  "Los Shuar construyen sus casa y viviendas con la madera del monte (caña guadua y chonta, especialmente, y otras maderas de fácil manejo). El techo lo hacen de hojas de paja toquilla y chambira, las que son colocadas en una estructura de varas de madera para protegerse de las lluvias y tormentas.",
     options: [
       "Los Shuar construyen sus casa y viviendas con la madera del monte (guayacan y chonta, especialmente, y otras maderas de fácil manejo). El techo lo hacen de hojas de paja toquilla y chambira, las que son colocadas en una estructura de varas de madera para protegerse de las lluvias y tormentas.",
       "Los Shuar construyen sus casa y viviendas con la madera del monte (caña guadua y cedro, especialmente, y otras maderas de fácil manejo). El techo lo hacen de hojas de paja toquilla y chambira, las que son colocadas en una estructura de varas de madera para protegerse de las lluvias y tormentas.",
@@ -2847,7 +2847,7 @@ let questions = [
   {
     numb: 259,
     question: "En qué año un incendio acaba con la capilla de la Purísima de Macas?",
-    answer: "En 1890",
+    answer: "En 1899",
     options: [
       "En 1899",
       "En 1890", // Respuesta correcta
@@ -3310,7 +3310,7 @@ let questions = [
   {
     numb: 301,
     question: "¿Cuál es la importancia de la monografía de Pedro Porras y las investigaciones de Stéphen Rostain para la búsqueda de la 'Ciudad Perdida'?",
-    answer: "Proporcionan evidencia arqueológica importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Morona Santiago.",
+    answer: "Proporcionan evidencia arqueológica importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Morona Santiago",
     options: [
       "Proporcionan evidencia sistemática importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Morona Santiago.",
       "Proporcionan evidencia arqueológica importante y pistas sobre la posible ubicación de la 'Ciudad Perdida' en la provincia de Santiago",
