@@ -68,7 +68,7 @@ continue_btn.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); // Mostrar cuadro de preguntas
     mostrarPreguntasAleatorias(); // Llamar a la función para mostrar preguntas aleatorias
     queCounter(1); // Pasar el número de pregunta actual a queCounter
-    startTimer(10); // Iniciar temporizador
+    startTimer(40); // Iniciar temporizador con 40 segundos
     startTimerLine(0); // Iniciar línea de tiempo
 }
 
